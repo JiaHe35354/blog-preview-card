@@ -51,8 +51,6 @@ During this project, I practiced:
 
 - Using :root CSS variables for color theming
 
-- Structuring semantic HTML with <figure> and <figcaption>
-
 - Applying Flexbox for centering component and for layout and spacing between avatar and caption
 
 - Managing responsive font sizes and layouts using em units in media queries
