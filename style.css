@@ -34,7 +34,7 @@ body {
 .container {
   background-color: var(--color-white);
   padding: 2rem;
-  max-width: 380px;
+  max-width: 38rem;
   border: 1px solid var(--color-gray-dark);
   border-radius: 15px;
   box-shadow: var(--color-gray-dark) 8px 8px;
@@ -67,7 +67,12 @@ body {
   font-size: 2.4rem;
   font-weight: 800;
   margin-bottom: 1.4rem;
-  transition: all 0.2s;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .heading {
+    transition: all 0.2s;
+  }
 }
 
 .heading:hover {
@@ -114,7 +119,6 @@ figcaption {
   }
 
   body {
-    letter-spacing: 0.5;
     font-size: 1.5rem;
   }
 
