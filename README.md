@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Github repo](https://github.com/JiaHe35354/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://blog-preview-card-jiah.netlify.app/](https://blog-preview-card-jiah.netlify.app/)
 
 ## My process
 
