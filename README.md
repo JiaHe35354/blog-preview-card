@@ -27,8 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot-desktop.png)
-![](./screenshot-mobile.png)
+#### 📱 Mobile
+
+![Screenshot for mobile](./screenshot-mobile.png)
+
+#### 💻 Desktop
+
+![Screenshot for desktop](./screenshot-desktop.png)
 
 ### Links
 
