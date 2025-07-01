@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Github repo](https://github.com/JiaHe35354/blog-preview-card)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/responsive-web-page-with-css-flexbox-IE6NEMi3an)
 - Live Site URL: [https://blog-preview-card-jiah.netlify.app/](https://blog-preview-card-jiah.netlify.app/)
 
 ## My process
